@@ -1,0 +1,124 @@
+/* Unified Color Theme for MAGNEWS Website */
+
+:root {
+  /* Primary Brand Colors - Purple/Warm Theme */
+  --primary-green: #4CAF50;
+  --primary-purple: #8B5CF6;
+  --primary-pink: #EC4899;
+  
+  /* Secondary Colors - Warm Tones */
+  --secondary-orange: #F59E0B;
+  --secondary-yellow: #EAB308;
+  --secondary-red: #EF4444;
+  --secondary-amber: #F59E0B;
+  
+  /* Neutral Colors - Balanced */
+  --dark-primary: #2c3e50;
+  --dark-secondary: #34495e;
+  --light-primary: #F9FAFB;
+  --light-secondary: #E5E7EB;
+  
+  /* Background Colors - Purple Gradients */
+  --bg-primary: #ffffff;
+  --bg-secondary: #F8FAFC;
+  --bg-dark: #2c3e50;
+  --bg-gradient: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+  --bg-card-gradient: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+  
+  /* Text Colors */
+  --text-primary: #1F2937;
+  --text-secondary: #6B7280;
+  --text-light: #ffffff;
+  --text-muted: #9CA3AF;
+  
+  /* Accent Colors */
+  --accent-success: #10B981;
+  --accent-warning: #F59E0B;
+  --accent-danger: #EF4444;
+  --accent-info: #3B82F6;
+  
+  /* Category Colors - Warm & Vibrant */
+  --category-breaking: #EF4444;
+  --category-politics: #3B82F6;
+  --category-sports: #10B981;
+  --category-tech: #8B5CF6;
+  --category-entertainment: #F59E0B;
+  --category-business: #EAB308;
+  --category-health: #06B6D4;
+  --category-world: #6B7280;
+  --category-books: #A78BFA;
+  --category-movies: #EC4899;
+  --category-music: #F97316;
+  
+  /* Shadow Colors */
+  --shadow-light: rgba(139, 92, 246, 0.1);
+  --shadow-medium: rgba(139, 92, 246, 0.15);
+  --shadow-dark: rgba(139, 92, 246, 0.25);
+  
+  /* Border Colors */
+  --border-light: #E5E7EB;
+  --border-medium: #D1D5DB;
+  --border-dark: #9CA3AF;
+}
+
+/* Global Theme Classes */
+.theme-primary {
+  background: var(--primary-green);
+  color: var(--text-light);
+}
+
+.theme-secondary {
+  background: var(--primary-blue);
+  color: var(--text-light);
+}
+
+.theme-accent {
+  background: var(--primary-purple);
+  color: var(--text-light);
+}
+
+.theme-gradient {
+  background: var(--bg-gradient);
+  color: var(--text-light);
+}
+
+/* Category Badge Colors */
+.category-breaking {
+  background: var(--category-breaking);
+  color: var(--text-light);
+}
+
+.category-politics {
+  background: var(--category-politics);
+  color: var(--text-light);
+}
+
+.category-sports {
+  background: var(--category-sports);
+  color: var(--text-light);
+}
+
+.category-tech {
+  background: var(--category-tech);
+  color: var(--text-light);
+}
+
+.category-entertainment {
+  background: var(--category-entertainment);
+  color: var(--text-light);
+}
+
+.category-business {
+  background: var(--category-business);
+  color: var(--text-light);
+}
+
+.category-health {
+  background: var(--category-health);
+  color: var(--text-light);
+}
+
+.category-world {
+  background: var(--category-world);
+  color: var(--text-light);
+}
