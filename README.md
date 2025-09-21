@@ -95,20 +95,7 @@ src/
 - **Sidebar**: Additional content and links
 - **Footer**: Site information and social links
 
-## 🌐 Live Demo
 
-[View Live Demo](https://samiullah6866.github.io/Article_Website)
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### News Page
-![News Page](screenshots/news.png)
-
-### Entertainment Page
-![Entertainment Page](screenshots/entertainment.png)
 
 ## 🤝 Contributing
 
