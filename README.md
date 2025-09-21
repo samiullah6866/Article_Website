@@ -10,6 +10,7 @@ A professional, responsive news website built with React featuring a modern desi
 - **Category Filtering**: Filter news by different categories
 - **Interactive Elements**: Clickable logos, search functionality, and hover effects
 - **Professional Color Scheme**: Consistent branding throughout
+- **Automated Content Uploads**: Daily article publishing through **n8n automation**
 
 ## 🚀 Tech Stack
 
@@ -18,6 +19,14 @@ A professional, responsive news website built with React featuring a modern desi
 - **Routing**: React Router
 - **Icons**: Unicode emojis and symbols
 - **Images**: Unsplash API for high-quality images
+- **Backend Automation**: [n8n](https://n8n.io/) (automatically adds new articles daily)
+
+## ⚙️ Automation Workflow (n8n)
+
+This website is connected to an **n8n backend workflow** which automates content updates:
+- Automatically publishes **2 new articles every day**
+- Articles are fetched, processed, and uploaded seamlessly
+- Keeps the website updated without manual effort
 
 ## 📱 Pages
 
@@ -46,6 +55,18 @@ A professional, responsive news website built with React featuring a modern desi
 - **Animations**: Smooth hover effects and transitions
 - **Gradients**: Beautiful gradient backgrounds for article cards
 - **Glassmorphism**: Modern glass-like effects on entertainment page
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📰 News Page
+![News Page](screenshots/news.png)
+
+### 🎬 Entertainment Page
+![Entertainment Page](screenshots/entertainment.png)
+
 
 ## 🛠️ Installation
 
