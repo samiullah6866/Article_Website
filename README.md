@@ -36,6 +36,9 @@ This website is connected to an **n8n backend workflow** which automates content
 - News grid layout
 - Sidebar with additional content
 
+<img width="1262" height="620" alt="image" src="https://github.com/user-attachments/assets/8bd81290-10c5-4faa-8d4b-c67a36fbb6d9" />
+
+
 ### News Page (`/news`)
 - Comprehensive news coverage
 - Category filtering (Breaking, Politics, World, Business, Technology, Health, Sports)
