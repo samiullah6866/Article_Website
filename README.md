@@ -36,7 +36,8 @@ This website is connected to an **n8n backend workflow** which automates content
 - News grid layout
 - Sidebar with additional content
 
-chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=20&url=http%3A%2F%2Flocalhost%3A3000%2F%23
+<img width="154" height="499" alt="image" src="https://github.com/user-attachments/assets/b6b50dc5-3810-4d97-bf5b-ce268b4b0e33" />
+
 
 
 ### News Page (`/news`)
